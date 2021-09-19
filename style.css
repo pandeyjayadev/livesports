@@ -1,0 +1,15 @@
+html, body{
+    margin: 0;
+    padding: o;
+    height: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    position: relative;
+    margin: 10% 25%;
+}
+
+header .match{
+    text-align: center;
+}
